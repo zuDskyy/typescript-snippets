@@ -1,0 +1,12 @@
+ {
+	
+	"Typescript":{
+		"scope": "typescript",
+		"prefix": "ut",
+		"body":[
+		"export const ${TM_FILENAME_BASE} = () => {",
+			 
+		"}",
+		],
+	  },
+}
