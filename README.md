@@ -32,6 +32,8 @@ Copy code
 ````
 In this example:
 
+![Sample Image](https://i.ibb.co/9p90JmM/ts.png)
+
 "TypeScript Function" is the name of the snippet.
 "prefix" is a short keyword you can type in your code to trigger the snippet.
 "body" contains the actual code that will be inserted when the snippet is triggered.
