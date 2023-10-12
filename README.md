@@ -1,6 +1,6 @@
 # typescript-snippets
 
-# Open VS Code:
+ Open VS Code:
 Launch Visual Studio Code on your computer.
 
 Access User Snippets:
@@ -17,7 +17,7 @@ In the JSON file, define your TypeScript snippet. Here's an example of a simple 
 
 json
 Copy code
-{
+````javascipt{
   "TypeScript Function": {
     "prefix": "tsfunction",
     "body": [
@@ -28,6 +28,7 @@ Copy code
     "description": "Create a TypeScript function"
   }
 }
+````
 In this example:
 
 "TypeScript Function" is the name of the snippet.
