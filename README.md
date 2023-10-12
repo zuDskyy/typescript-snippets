@@ -1,6 +1,6 @@
 # typescript-snippets
 
-Open VS Code:
+# Open VS Code:
 Launch Visual Studio Code on your computer.
 
 Access User Snippets:
