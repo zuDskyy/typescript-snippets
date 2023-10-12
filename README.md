@@ -17,7 +17,8 @@ In the JSON file, define your TypeScript snippet. Here's an example of a simple 
 
 json
 Copy code
-````javascipt{
+````javascipt
+{
   "TypeScript Function": {
     "prefix": "tsfunction",
     "body": [
